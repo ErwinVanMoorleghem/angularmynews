@@ -12,8 +12,8 @@ export class ArticleService {
 
     let article1: Article = {
       id: 1,
-      title: "Title article",
-      subtitle: "Subtitle article",
+      title: "A tittel",
+      subtitle: "Subtitle a",
       imageUrl: "https://images.pexels.com/photos/1202723/pexels-photo-1202723.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=100&w=134",
       imageCaption: "caption image",
       content: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur voluptas sequi voluptatum pariatur! Quae cumque
